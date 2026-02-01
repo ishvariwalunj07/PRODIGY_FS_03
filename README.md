@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🛍️ – MERN Stack E-Commerce Web Application – .
 
 ---
@@ -215,40 +216,81 @@ feel free to **open an issue, create a pull request, or connect with me on Linke
 =======
 # PRODIGY_FS_03
 🛍️ Local E-Commerce Clothing Website – ZYNK
+=======
+# 🛍️ Local E-Commerce Clothing Website – ZYNK
+>>>>>>> 9663bd414d787c6550974a16e414a3473b2b4598
 
-ZYNK is a local e-commerce clothing website designed to provide a smooth and modern online shopping experience. The platform offers a wide range of clothing for Men, Women, and Kids, with features like product filtering, cart management, and secure checkout.
+ZYNK is a local e-commerce clothing website designed to provide a smooth and modern online shopping experience.  
+The platform offers a wide range of clothing for **Men, Women, and Kids**, with features like product filtering, cart management, and secure checkout.
 
-✨ Features
-🏠 Home & Navigation
+---
 
-Responsive and user-friendly navigation bar
+## ✨ Features
 
-Pages include Home, Collection, About, and Contact
+### 🏠 Home & Navigation
+- Responsive and user-friendly navigation bar  
+- Pages include Home, Collection, About, and Contact  
+- Search, user account, and cart icons  
 
-Search, user account, and cart icons
+### 👕 Product Collections
+**Categories**
+- Men
+- Women
+- Kids  
 
-👕 Product Collections
+**Filters**
+- Category
+- Product type (Topwear, Bottomwear, Winterwear)
+- Sort products by relevance  
 
-Categories:
+### 🧾 Product Details
+- Product image and description  
+- Price and customer ratings  
+- Size selection  
+- Add to Cart functionality  
 
-Men
+**Highlights**
+- 100% Original products  
+- Cash on Delivery available  
+- Easy 7-day return  
 
-Women
+### 🛒 Cart Management
+- View and manage cart items  
+- Update quantity and remove products  
+- Automatic price calculation:
+  - Subtotal
+  - Shipping charges
+  - Final total  
 
-Kids
+### 🚚 Checkout & Payments
+- Delivery details form  
+- Payment options:
+  - Razorpay (Online Payment)
+  - Cash on Delivery  
+- Secure order placement  
 
-Filters by:
+### ℹ️ About Us
+- Brand story and mission  
+- Focus on quality, comfort, and customer satisfaction  
 
-Category
+---
 
-Product type (Topwear, Bottomwear, Winterwear)
+## 🛠️ Technologies Used
 
-Sort products by relevance
+### Frontend
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
 
-🧾 Product Details
+### Backend
+- Node.js  
+- Express.js  
 
-Product image and description
+### Database
+- MongoDB  
 
+<<<<<<< HEAD
 Price and customer ratings
 
 Size selection
@@ -320,3 +362,7 @@ Payment Gateway
 
 Razorpay
 >>>>>>> 4976de282fd936cb73ca7fb75dd53ad86e81f456
+=======
+### Payment Gateway
+- Razorpay
+>>>>>>> 9663bd414d787c6550974a16e414a3473b2b4598
